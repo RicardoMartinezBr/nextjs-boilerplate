@@ -14,7 +14,17 @@ front of Vercel (Cloudflare) and history shows some errors in their
 builds. The manager’s name is Alex (she/her), Engineering Manager.
 The champion, Tanner – the lead on the project – it is found out, has
 left the company`,
-  "What is your favorite thing to do outside of work?"
+  `a. Create and embed a 3-7 minute video on why Core Web Vitals are
+important to an Enterprise customer at Vercel.
+b. Use this link to interpret the Core Web Vitals of
+https://underarmour.com and give a high level overview of specific
+items to concentrate on to improve their overall Lighthouse score.
+Feel free to share your screen during the video to demonstrate
+your points and understanding of the topics at hand.
+Also feel free to incorporate a high-level overview of Vercel
+Speed Insights into your presentation and how using it can be
+beneficial for a Vercel customer.`,
+  "How could we improve or alter this familiarization exercise?"
 ];
 
 const answers = [
@@ -90,7 +100,8 @@ Best regards,<br>
 Ricardo
 </p>
 `,
-  `Last Answer`
+  `<iframe width="1400" height="715" src="https://www.youtube.com/embed/iv9QSxstnkc?si=Gd9k3ngCvwgirxmf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
+  `I really liked the assessment and I would change anything particularly. I think it was a good mix of technical and non-technical questions that allowed me to showcase my skills and experience. The questions were relevant to the role and provided a good opportunity to demonstrate my knowledge and problem-solving abilities. Overall, I found the assessment to be well-structured and engaging.`,
 ];
 
 export default function Home() {
